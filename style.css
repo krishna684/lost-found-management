@@ -1,0 +1,100 @@
+/* General Styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 60px;
+    padding: 0;
+    background-color: #f4f6f9;
+    color: #333;
+}
+
+.container {
+    max-width: 960px;
+    margin: 60px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+h1 {
+    color: #4CAF50;
+}
+
+h2 {
+    color: #333;
+    font-size: 1.5em;
+}
+
+/* Stats Section */
+.stats {
+    margin-bottom: 40px;
+}
+
+.stat-box {
+    display: flex;
+    justify-content: space-between;
+}
+
+.stat-item {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    width: 30%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+    text-align: center;
+}
+
+.stat-item h3 {
+    margin: 0;
+    color: #666;
+}
+
+.count {
+    font-size: 2em;
+    font-weight: bold;
+    color: #4CAF50;
+}
+
+/* Actions Section */
+.actions {
+    text-align: center;
+}
+
+.action-links {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.action-button {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    text-align: center;
+    display: inline-block;
+    transition: background-color 0.3s ease;
+}
+
+.action-button:hover {
+    background-color: #45a049;
+}
+
+/* Media Queries for Responsive Design */
+@media (max-width: 768px) {
+    .stat-box {
+        flex-direction: column;
+    }
+
+    .stat-item {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+}
