@@ -138,15 +138,9 @@ WHERE i.status = 'found';
 
 ---
 
-## 🧑‍💻 Contributing
-
-Contributions are welcome! Feel free to open an issue or submit a pull request. Please adhere to the [Code of Conduct](CODE_OF_CONDUCT.md).
-
----
-
 ## 📜 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
