@@ -70,10 +70,6 @@ The database adheres to **3NF**, ensuring:
 2. **Items**: Records details of lost/found items.
 3. **Claims**: Tracks claim requests.
 
-### **ER Diagram**
-
-> (You can use tools like Lucidchart, dbdiagram.io, or MySQL Workbench to create and include an ER diagram image.)
-
 ---
 
 ## 🚀 Getting Started
@@ -89,7 +85,7 @@ The database adheres to **3NF**, ensuring:
 #### Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/lost-found-management.git
+git clone https://github.com/krishna684/lost-found-management.git
 cd lost-found-management
 ```
 
