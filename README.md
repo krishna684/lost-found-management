@@ -77,7 +77,7 @@ The database adheres to **3NF**, ensuring:
 - **MySQL**: Version 8.0 or later
 - **Web Server**: Apache
 
-### 2. Site is live at [www.findinzou.co4.in]([https://www.findinzou.co4.in/](http://findinzou.co4.in/)) or follow instructions below ⬇️
+### 2. Site is live at [www.findinzou.co4.in](http://findinzou.co4.in/) or follow instructions below ⬇️
 
 ### - Setup Instructions
 
