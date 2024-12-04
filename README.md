@@ -78,11 +78,11 @@ The database adheres to **3NF**, ensuring:
 
 - **PHP**: Version 7.4 or later
 - **MySQL**: Version 8.0 or later
-- **Web Server**: Apache or Nginx
+- **Web Server**: Apache
 
-  ### Site is live at [www.findinzou.co4.in](https://www.findinzou.co4.in/) or follow below instructions
+### 2. Site is live at [www.findinzou.co4.in](https://www.findinzou.co4.in/) or follow instructions below ⬇️
 
-### 2. Setup Instructions
+### Setup Instructions
 
 #### Clone the Repository
 
