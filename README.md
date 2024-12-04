@@ -79,7 +79,7 @@ The database adheres to **3NF**, ensuring:
 
 ### 2. Site is live at [www.findinzou.co4.in](https://www.findinzou.co4.in/) or follow instructions below ⬇️
 
-### Setup Instructions
+### - Setup Instructions
 
 #### Clone the Repository
 
