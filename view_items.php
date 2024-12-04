@@ -59,7 +59,6 @@
                 <p><strong>Description:</strong> {$row['Description']}</p>
                 <p><strong>Date Found:</strong> {$row['Date_Found']}</p>
                 <p><strong>Reported by:</strong> {$row['First_Name']} {$row['Last_Name']}</p>
-                <p><strong>Contact Info:</strong> {$row['Contact_Info']}</p>
                 <form action='claim_item.php' method='get' class='mt-2'>
                     <input type='hidden' name='item_id' value='{$row['Item_ID']}'>
                     <input type='hidden' name='description' value='{$row['Description']}'>
