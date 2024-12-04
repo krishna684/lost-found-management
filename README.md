@@ -48,9 +48,6 @@ The backend uses MySQL for structured data storage, adhering to **Third Normal F
 ├── database/
 │   ├── schema.sql           # SQL script for creating the database schema
 │   ├── seed_data.sql        # SQL script for populating tables with sample data
-├── assets/
-│   ├── css/                 # CSS files for styling
-│   ├── js/                  # JavaScript files for interactivity
 └── README.md                # Project documentation
 ```
 
